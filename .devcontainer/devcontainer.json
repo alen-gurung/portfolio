@@ -34,7 +34,7 @@
           "source.fixAll.eslint": true,
           "source.fixAll.tslint": true,
           "source.organizeImports": true
-        },
+        }
       }
     }
   },
