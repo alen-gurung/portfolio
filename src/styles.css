@@ -126,3 +126,13 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a slide in animation */
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
